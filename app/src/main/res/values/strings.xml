@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Spinner</string>
+
+
+    <string-array name="Name">
+        <item>Home</item>
+        <item>Work</item>
+        <item>Train Station</item>
+        <item>Bus Station</item>
+        <item>School</item>
+        <item>Zone</item>
+        <item>pagoda</item>
+        <item>Temple</item>
+        <item>Beach</item>
+        <item>Mountain</item>
+        <item>Forest</item>
+        <item>Pub</item>
+        <item>Club</item>
+        <item>University</item>
+         </string-array>
+</resources>
